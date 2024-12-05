@@ -1,0 +1,13 @@
+.date {font-weight: bold;}
+.quote {font-style: italic;}
+#image {max-width: 100%; height: auto; margin: auto}
+img {display: block;}
+body {font-family: Arial; color: #40423f;}
+ #main {background-color: #e2e2e1; margin: 20px 50px; border-radius: 5px; overflow: hidden;}
+.intro {text-align: center; padding: 0 50px}
+.image {background-color: white; overflow: hidden; margin: 20px 100px; padding: 30px 0 10px; border-radius: 2px;}
+#tribute-info {text-align: center;}
+ul {text-align: left; list-style-position: inside; display: inline-block; line-height: 1.5; width: 600px;}
+ul > li {margin-bottom: 15px}
+h2 {text-align: center; font-size: 18px}
+#tribute-link {text-decoration: none; cursor: pointer; color: white}
